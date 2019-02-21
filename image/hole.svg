@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'HOLE' (U+1F573)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M252.1406 350.0156 Q252.1406 371.3906 206.1562 382.3594 Q174.7969 389.8125 144 389.8125 Q113.0625 389.8125 81.7031 382.3594 Q35.7188 371.3906 35.7188 350.0156 Q35.7188 328.6406 81.7031 317.6719 Q113.0625 310.2188 144 310.2188 Q174.7969 310.2188 206.1562 317.6719 Q252.1406 328.6406 252.1406 350.0156 ZM144 375.0469 Q64.5469 367.875 63.7031 345.2344 Q63.2812 332.5781 81.1406 324.7031 Q49.7812 332.5781 50.2031 345.2344 Q50.625 360.5625 90.5625 368.8594 Q115.5938 374.0625 144 375.0469 Z" stroke="none" />
+    </g>
+  </g>
+</svg>
